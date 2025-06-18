@@ -6,10 +6,9 @@
 Working on WebVirgl pentesting, originally started from my job at Apple Inc (c). Internal Apple Inc.(c) stuff is prohibited and not used in it🔓🔐.
 
 # - ⚡  My GitHub stats: 
-
- 2,022 additions and 10 deletions.                                                                                       
+                                                                                    
 # and 160 commits per day on average ⚡.
- 
+ 2,022 additions and 10 deletions.   
 
 # **- 📫 How to reach me: My email: spacecontributes111@gmail.com**
 
