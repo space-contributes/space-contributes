@@ -12,9 +12,9 @@
 
 
 ------------------------------------------
-| 1,022 additions and 3 deletions.       |       |.                                       |
+| 1,022 additions and 3 deletions.       |       |. -------------_-_-------               |
 |.                                       |
-| and 100 commits per day on average ⚡. | |
+| and 100 commits per day on average ⚡. | |---------------------------
 |        .                               |
 |------------------------------------------
  
