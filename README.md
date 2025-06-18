@@ -7,7 +7,7 @@ Working on WebVirgl pentesting, originally started from my job at Apple Inc (c).
 
 # - ⚡  My GitHub stats: 
 
-# 1,022 additions and 3 deletions.                                                                                       
+ 2,022 additions and 10 deletions.                                                                                       
 # and 160 commits per day on average ⚡.
  
 
