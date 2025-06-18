@@ -27,22 +27,24 @@ on average ⚡.
 
 - OWASP TOP 100!!!
 
--   solid risk and vulnerability 
+-  solid 
+# risk and vulnerability 
 indentification,
 
- along with top notch recon, 
+  along with top notch 
+ # **recon**, 
 
-advanced target implementation 
+# advanced target implementation 
 analysis 
 
 (indirectly),
- enumeration of subdomains, ports, and directories, 
+# enumeration of subdomains, ports, and directories, 
 
 threat/threat surface profiling,
 
  exploit research, 
 
-exploitation, and vulnerability 
+# exploitation, and vulnerability 
 
 analysis.
 
