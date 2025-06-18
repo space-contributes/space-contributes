@@ -3,22 +3,13 @@
 
  # - 🌱 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting.**
 
-- 🔭 I’m currently working on my WebVirgl Tool that lets you pentest across the board
-
-- 👯 **I’m looking to collaborate on the WebVirgl web pentesting tool.**
-
+Working on WebVirgl pentesting, originally started from my job at Apple Inc (c). Internal Apple Inc.(c) stuff is prohibited and not used in it🔓🔐.
 
 # - ⚡  My GitHub stats: 
-
-**_NOTE: **
 
 1,022 additions and 3 deletions.                                                                                       
  and 160 commits per day on average ⚡.
  
-
-
-- 💬** Ask me about how WebVirgl works?**
-
 
 # **- 📫 How to reach me: My email: spacecontributes111@gmail.com**
 
