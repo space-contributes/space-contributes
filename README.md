@@ -1,14 +1,14 @@
 ## Hi there 👋 I am a APPLE Inc Senior Web PenTester and Head Of Security
 
 
- # - 🌱📈💹 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting. 🌱📈💹**
+ # - 🌱📈💹 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting. **
 
 Working on 
 # ** I madeWebVirgl pentesting**, 
 
 originally started from my job at Apple Inc (c). Internal Apple Inc.(c) stuff is prohibited and not used in it🔓🔐.
 
-# - ⚡🥷🛫  My GitHub stats: ⚡🥷🛫
+# - ⚡🥷🛫  My GitHub stats:
                                                                                     
 # 167 commits per day
 on average ⚡.
