@@ -25,7 +25,7 @@ on average ⚡.
 
 # 🟡😁VULNERABILITIES MY TOOLS COVER👍🟡:
 
-- OWASP TOP 100!!!
+- # OWASP TOP 100!!!
 
 -  solid 
 # risk and vulnerability 
@@ -62,15 +62,13 @@ is it same token then thats a vuln.).
 
 - Cross-Site Scripting (XSS),
 
- - SQL Injection (SQLi), 
+ - # SQL Injection (SQLi), 
 
 - Broken Authentication,
 
- - Broken Access Control, 
+ -  # Broken Access Control, 
 - XXE, 
 
 # Security Misconfigurations, and Sensitive Data Exposure 
 
 expert with the WebVirgl tool.
-
-- OWASP Top 100.
