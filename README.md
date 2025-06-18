@@ -62,15 +62,14 @@ is it same token then thats a vuln.).
 
 - Cross-Site Scripting (XSS),
 
- SQL Injection (SQLi), 
+ - SQL Injection (SQLi), 
 
-Broken Authentication,
+- Broken Authentication,
 
- Broken Access Control, 
+ - Broken Access Control, 
+- XXE, 
 
-XXE, 
-
-Security Misconfigurations, and Sensitive Data Exposure 
+# Security Misconfigurations, and Sensitive Data Exposure 
 
 expert with the WebVirgl tool.
 
