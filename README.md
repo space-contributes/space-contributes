@@ -1,4 +1,4 @@
-## Hi there 👋 I am a APPLE Inc ~Senior Web PenTester and Head Of Security~
+## Hi there 👋 I am a APPLE Inc Senior Web PenTester and Head Of Security
 
 
  # - 🌱📈💹 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting. **
