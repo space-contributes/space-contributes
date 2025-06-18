@@ -1,39 +1,47 @@
 ## Hi there 👋
 
 
-- 🌱 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting.**
+ # - 🌱 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting.**
 
 - 🔭 I’m currently working on my WebVirgl Tool that lets you pentest across the board
 
 - 👯 **I’m looking to collaborate on the WebVirgl web pentesting tool.**
 
 
+# - ⚡  My GitHub stats: 
+
+
+------------------------------------------
+| 1,022 additions and 3 deletions.       |       |.                                       |
+|.                                       |
+| and 100 commits per day on average ⚡. | |
+|        .                               |
+|------------------------------------------
+ 
+
+
 - 💬** Ask me about how WebVirgl works?**
 
 
- **- 📫 How to reach me: My email: spacecontributes111@gmail.com**
+# **- 📫 How to reach me: My email: spacecontributes111@gmail.com**
 
 
 
 
-- ⚡ Fun fact: I was a gamedev (Unreal Engine, RTX, cyberpunk-level). With customizable anti aliasing (like AI powered too) but left within 1-3.65 years.
+# - ⚡ Fun fact: I was a gamedev (Unreal Engine, RTX, cyberpunk-level). With customizable anti aliasing (like AI powered too) but left within 1-3.65 years.
 -->
 
 
 
 
 
-- ⚡  My GitHub stats: 
-
-1,022 additions and 3 deletions
-
-and 100 commits per day on average ⚡
+# - 🔭 I’m currently working on my WebVirgl Tool that lets you pentest across the board of:
 
 
 
+# VULNERABILITIES MY TOOLS COVER:
 
-- 🔭 I’m currently working on my WebVirgl Tool that lets you pentest across the board of:
-
+- OWASP TOP 100!!!
 
 -   solid risk and vulnerability 
 indentification,
