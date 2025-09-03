@@ -5,8 +5,19 @@
 
  # - 🌱📈💹 ** I’m currently learning Web Penetration Testing and Bug Bounty hunting. **
 
+## codename: seckin
  ## Commands I use (if you come from another platform) FOR YOU
 
+Working on 
+# ** I made WebVirgl pentesting**, 
+
+# - ⚡🥷🛫  My GitHub stats:
+                                                                                    
+# 167 commits per day
+on average ⚡.
+ 15000 additions and half of them deletions
+
+ x
 
 -----
 
@@ -32,6 +43,25 @@ Based on the Nmap findings from the `-O` flag, you can identify the operating sy
   * **U1(R = N), IE(R = N)**: No firewall detected. Use Burp Collaborator and fuzz freely.
 
 -----
+
+Working on 
+# ** I made WebVirgl pentesting**, 
+
+# - ⚡🥷🛫  My GitHub stats:
+                                                                                    
+# 167 commits per day
+on average ⚡.
+ 15000 additions and half of them deletions
+
+ codename: seckin
+
+# **- 📬 How to reach me: My email: spacecontributes111@gmail.com**
+
+
+# History:
+
+- ⚡👨‍🦯 Fun fact: I was a gamedev (Unreal Engine, RTX, cyberpunk-level). With customizable anti aliasing (like AI powered too) but left within 1-3.65 years.
+-->
 
 ### **Web Application Specific Hacking**
 
@@ -132,25 +162,6 @@ You can also use your browser's **Chrome DevTools** to analyze client-side code 
 **JWT use can be randomized to bypass even QR codes.** Scan for this to find hidden vulnerabilities.
 
 
-
-Working on 
-# ** I made WebVirgl pentesting**, 
-
-# - ⚡🥷🛫  My GitHub stats:
-                                                                                    
-# 167 commits per day
-on average ⚡.
- 3,022 additions and 60 deletions.   
-
- codename: seckin
-
-# **- 📬 How to reach me: My email: spacecontributes111@gmail.com**
-
-
-# History:
-
-- ⚡👨‍🦯 Fun fact: I was a gamedev (Unreal Engine, RTX, cyberpunk-level). With customizable anti aliasing (like AI powered too) but left within 1-3.65 years.
--->
 
 
 # 🟡😁VULNERABILITIES MY TOOLS COVER👍🟡:
